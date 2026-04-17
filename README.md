@@ -1,1 +1,1 @@
-# proyecto-semestral-f-sica-computacional
+# proyecto-semestral-fisica-computacional
